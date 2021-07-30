@@ -1,13 +1,13 @@
 ## Olá!! Meu nome é Juan Pereira
 
 - 🔭 Atualmente trabalhando com Java e Javascript(VUE)
-- 🌱 Estudando Angular, Docker
+- 🌱 Estudando: Angular, Docker
 - 🌚 Portifólio: https://juanpereira.netlify.app/
 
  <div>
   <a href="https://github.com/juanpereira2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanpereira2&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpereira2&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpereira2&layout=compact&langs_count=10&theme=merko"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -26,6 +26,7 @@
   
   <div>
      <a href="https://www.linkedin.com/in/juan-pereira-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://juanpereira.netlify.app/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
   </div>
   
   ![Snake animation](https://github.com/juanpereira2/juanpereira2/blob/output/github-contribution-grid-snake.svg)
